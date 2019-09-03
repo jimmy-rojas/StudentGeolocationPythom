@@ -14,8 +14,9 @@ There are 2 python files which can be run to see the core functionality
 ### Execution ###
 - execute the command: 
 
-``` python Exercises.py ``
-``` python Bonus.py ````
+  - ``` python Exercises.py ```
+
+  - ``` python Bonus.py ```
 
 ### Testing ###
 Please see the console output in order to review results after execution 
