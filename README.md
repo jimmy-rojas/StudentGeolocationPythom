@@ -20,3 +20,9 @@ There are 2 python files which can be run to see the core functionality
 
 ### Testing ###
 Please see the console output in order to review results after execution 
+
+### Library Reference ###
+
+-----------------
+This implementation uses third party code:
+- Piece of code [BoundingBox](https://stackoverflow.com/questions/1648917/given-a-latitude-and-longitude-and-distance-i-want-to-find-a-bounding-box)
