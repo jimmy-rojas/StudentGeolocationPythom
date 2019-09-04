@@ -1,9 +1,3 @@
-# This class was obtained from https://stackoverflow.com/questions/1648917/given-a-latitude-and-longitude-and-distance-i-want-to-find-a-bounding-box
-# It was modified to work with a variation in variables from
-# def get_bounding_box(latitude_in_degrees, longitude_in_degrees, half_side_in_miles):
-# to
-#  def getBoundingBox(latitude_in_degrees, longitude_in_degrees, half_side_in_meters):
-#
 import math
 
 class BoundingBox(object):

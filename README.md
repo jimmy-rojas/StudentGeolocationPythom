@@ -26,3 +26,10 @@ Please see the console output in order to review results after execution
 -----------------
 This implementation uses third party code:
 - Piece of code [BoundingBox](https://stackoverflow.com/questions/1648917/given-a-latitude-and-longitude-and-distance-i-want-to-find-a-bounding-box)
+
+``` 
+ It was modified to work with a variation in variables and values from:
+ def get_bounding_box(latitude_in_degrees, longitude_in_degrees, half_side_in_miles):
+ to:
+ def getBoundingBox(latitude_in_degrees, longitude_in_degrees, half_side_in_meters):
+```
